@@ -39,20 +39,20 @@ h1 {
     position: relative;
     text-align: center;
     right: 0;
-    width: 30%;
+    width: 100px;
     float: right;
     margin-top: 0%;
 }
 
 .beef {
-    background-color: red;
+    background-color: #db7093;
 }
 
 .chicken {
-    background-color: pink;
+    background-color: #ffc107;
 }
 .sushi {
-    background-color: yellow;
+    background-color:  #fa8072;
 }
 .desc {
     /* position: relative; */
@@ -64,7 +64,7 @@ h1 {
 /********** Desktopxp **********/
 @media (min-width: 992px) {
   .col-lg-4 {
-    width: 30.33%;
+    width: 33.33%;
     float: left;
   }
 
