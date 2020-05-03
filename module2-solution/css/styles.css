@@ -42,6 +42,8 @@ h1 {
     width: 100px;
     float: right;
     margin-top: 0%;
+    border-bottom: 1.5px solid black;
+    border-left: 1.5px solid black;
 }
 
 .beef {
